@@ -15,7 +15,7 @@
 
 #  Tecnologías y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,react,wordpress,docker,git,mongodb,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,wordpress,docker,git,mongodb,vscode,postman,nodejs,npm,vscode" />
 </p>
 
 
@@ -24,7 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniagab7&layout=compact&theme=radical" width="98%"/>
 </p>
 
----
 
 #  ¡Contacto!
 -  **Correo:** alemankenia137@gmail.com  
@@ -35,4 +34,3 @@
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"><br>
   <strong>✨ ¡Gracias por visitar mi perfil! Estoy lista para nuevos retos, aprender más y seguir perseverando. 💪✨</strong>
 </p>
-
