@@ -20,10 +20,16 @@
 
 
 #  Estadísticas de GitHub
+<p align="center"><strong>Resumen del Perfil</strong></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniagab7&layout=compact&theme=radical" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keniagab7&theme=radical" width="98%"/>
 </p>
 
+<p align="center"><strong>Lenguajes por Repositorio | Lenguajes más utilizados en commits</strong></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keniagab7&theme=radical" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keniagab7&theme=radical" width="49%"/>
+</p>
 
 #  ¡Contacto!
 -  **Correo:** alemankenia137@gmail.com  
