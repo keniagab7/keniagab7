@@ -1,0 +1,65 @@
+<svg width="700" height="300" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="photoClip">
+      <rect x="30" y="30" width="240" height="240" rx="16"/>
+    </clipPath>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00FF9C" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00FF9C" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="duotone">
+      <feColorMatrix type="matrix"
+        values="0.1 0.1 0.1 0 0
+                0.1 0.1 0.1 0 0
+                0.1 0.1 0.1 0 0
+                0   0   0   1 0"/>
+      <feComponentTransfer>
+        <feFuncR type="table" tableValues="0.02 0.0"/>
+        <feFuncG type="table" tableValues="0.05 1.0"/>
+        <feFuncB type="table" tableValues="0.05 0.6"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <rect width="700" height="300" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="698" height="298" rx="17" fill="none" stroke="#00FF9C" stroke-opacity="0.35" stroke-width="1"/>
+
+  <rect x="30" y="30" width="240" height="240" rx="16" fill="#111827"/>
+  <g clip-path="url(#photoClip)">
+    <image href="kenia.jpg"
+           x="30" y="30" width="240" height="240" preserveAspectRatio="xMidYMid slice"
+           filter="url(#duotone)"/>
+    <rect x="30" y="30" width="240" height="240" fill="#00FF9C" opacity="0.06"/>
+
+    <rect x="30" width="240" height="30" fill="url(#scanGrad)">
+      <animate attributeName="y" values="30;250;30" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="30" x2="270" stroke="#00FF9C" stroke-width="1" opacity="0.7">
+      <animate attributeName="y1" values="30;255;30" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="30;255;30" dur="4s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  <rect x="30" y="30" width="240" height="240" rx="16" fill="none" stroke="#00FF9C" stroke-width="1" opacity="0.6"/>
+
+  <text x="35" y="288" font-family="monospace" font-size="11" fill="#00FF9C" opacity="0.7">scanning_profile.jpg</text>
+
+  <g font-family="monospace" fill="#00FF9C">
+    <text x="300" y="55" font-size="14" opacity="0.6">$ whoami</text>
+    <text x="300" y="78" font-size="16" font-weight="bold">Kenia Gabriela</text>
+
+    <text x="300" y="108" font-size="14" opacity="0.6">$ role --current</text>
+    <text x="300" y="130" font-size="15">Backend Developer</text>
+
+    <text x="300" y="160" font-size="14" opacity="0.6">$ stack --list</text>
+    <text x="300" y="182" font-size="14">PHP · Laravel · MySQL · React</text>
+
+    <text x="300" y="212" font-size="14" opacity="0.6">$ status</text>
+    <text x="300" y="234" font-size="14">Aprendiendo algo nuevo...
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="300" y="264" font-size="12" opacity="0.5">[ITCA-FEPADE · MomotoLabs]</text>
+  </g>
+</svg>
