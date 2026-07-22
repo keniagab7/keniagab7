@@ -17,8 +17,8 @@
 ## 👩‍💻 Sobre mí
 
 - 🎓 Estudié técnico en **Ingeniería de Desarrollo de Software** en ITCA-FEPADE, Regional Zacatecoluca.
-- 💻 Desarrolladora **backend y frontend**, con experiencia construyendo soluciones completas de extremo a extremo.
-- 🏢 Trabajé como desarrolladora backend en **MomotoLabs**, y como tutora académica, donde fortalecí mis habilidades de comunicación y trabajo en equipo.
+- 💻 Desarrolladora **backend y frontend**, con experiencia en diversos proyectos.
+- 🏢 Actualmente trabajo como desarrolladora en la empresa **MomotoLabs**.
 - 🌱 Siempre en busca de aprender nuevas herramientas y crecer como profesional.
 - ⚡ Dato curioso: me apasiona que el código no solo funcione, sino que también se vea bien.
 </table>
