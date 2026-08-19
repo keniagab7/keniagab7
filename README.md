@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kenia%20Alemán&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20-%20Frontend%20Developer%20(React)&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kenia%20Alemán&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=35" />
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Frontend+Developer+(React);Backend+Developer+(Laravel)" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack-00FF9C?style=for-the-badge&labelColor=0d1117" />
@@ -15,40 +19,28 @@
 <br>
 
 ## 👩‍💻 Sobre mí
-
 - 🎓 Estudié técnico en **Ingeniería de Desarrollo de Software** en ITCA-FEPADE, Regional Zacatecoluca.
-- 💻 Desarrolladora **backend y frontend**, con experiencia en diversos proyectos.
-- 🏢 Actualmente trabajo como desarrolladora en la empresa **MomotoLabs**.
+- 💻 Desarrolladora **frontend (React)** y **backend (Laravel/PHP)**, trabajando en sistemas web reales para el sector fiscal de El Salvador (facturación electrónica) y agrícola ISC.
+- 🏢 Actualmente trabajo como desarrolladora en **MomotoLabs**.
+- 🌾 He construido flujos de registro multi-paso (wizards) en React/Redux/Formik/Yup para sistemas de registro agrícola.
+- 🧾 He trabajado en sistemas de facturación electrónica (DTE), incluyendo notas de crédito y débito.
 - 🌱 Siempre en busca de aprender nuevas herramientas y crecer como profesional.
-- ⚡ Dato curioso: me apasiona que el código no solo funcione, sino que también se vea bien.
-</table>
 
 <br>
 
 ## 🛠️ Tecnologías y Herramientas
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,html,css,js,react,bootstrap,tailwind,wordpress,docker,git,linux,netlify,vscode,postman,nodejs,npm,cypress&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,html,css,js,react,redux,bootstrap,tailwind,wordpress,docker,git,linux,netlify,vscode,postman,nodejs,npm,cypress&theme=dark&perline=10" />
 </p>
 
 <br>
 
 ## 📊 Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keniagab7&theme=radical" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=keniagab7&theme=radical" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=keniagab7&show_icons=true&theme=radical&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=keniagab7&show_icons=true&theme=radical&hide_border=true&count_private=true" width="60%"/>
 </p>
 
 ## 📫 Contacto
-
 <p align="center">
   <a href="mailto:alemankenia137@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
